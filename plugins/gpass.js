@@ -58,6 +58,6 @@ cmd({
     });
   } catch (_0x1ad7bb) {
     console.log(_0x1ad7bb);
-    _0x1bb557("❌NEXUS-XMD🇰🇪🦜 Error generating password🤕: " + _0x1ad7bb.message);
+    _0x1bb557("❌𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃🇰🇪🦜 Error generating password🤕: " + _0x1ad7bb.message);
   }
 });
