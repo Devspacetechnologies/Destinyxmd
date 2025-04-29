@@ -29,9 +29,9 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *𓆩ု᪳𝐁.𝐌.𝐁-𝐗𝐌𝐃ှ᪳𓆪* 〕═══❒
+        let ytmsg = `╔═══〔 *𓆩𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇* 〕═══❒
 ║╭───────────────◆  
-║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+║│ *❍𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃*
 ║╰───────────────◆
 ╚══════════════════❒
 ╔══════════════════❒
@@ -90,9 +90,9 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╔═══〔 *𓆩ု᪳𝐁.𝐌.𝐁-𝐗𝐌𝐃ှ᪳𓆪* 〕═══❒
+    let ytmsg = `╔═══〔 *𓆩𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇* 〕═══❒
 ║╭───────────────◆  
-║│ *𝐁.𝐌.𝐁-𝐗𝐌𝐃 𝐒𝐌Ɗ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆*
+║│ *𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃*
 ║╰───────────────◆
 ╚══════════════════❒
 ╔══════════════════❒
@@ -117,7 +117,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© 𝐁.𝐌.𝐁-𝐗𝐌𝐃🎐*`
+        caption: `> *©𝐃𝐄𝐒𝐓𝐈𝐍𝐘-𝐗𝐌𝐃🎐*`
     }, { quoted: mek });
 
 } catch (e) {
