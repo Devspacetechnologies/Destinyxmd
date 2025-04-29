@@ -67,8 +67,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363288304618280@newsletter",
-          newsletterName: "💥 NEXUS-XMD 💥",
+          newsletterJid: " 120363360513979999@newsletter",
+          newsletterName: "💥 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 💥",
           serverMessageId: 143
         }
       }
@@ -93,7 +93,7 @@ cmd({
           case "1":
             await conn.sendMessage(senderID, {
               video: { url: downloadLink },
-              caption: "*NEXUS-XMD*"
+              caption: "*𝐃𝐄𝐒𝐓𝐈𝐍𝐘-𝐗𝐌𝐃*"
             }, { quoted: receivedMsg });
             break;
 
@@ -102,7 +102,7 @@ cmd({
               document: { url: downloadLink },
               mimetype: "video/mp4",
               fileName: `${ytData.title}.mp4`,
-              caption: "*🔥 NEXUS-XMD 🔥*"
+              caption: "*🔥 𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃 🔥*"
             }, { quoted: receivedMsg });
             break;
 
