@@ -23,6 +23,6 @@ const key = {
         await conn.sendMessage(m.chat, { delete: key })
 } catch(e) {
 console.log(e);
-reply('💫 Nexus xᴍᴅ 💫 successful..👨‍💻✅')
+reply('💫 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 💫 successful..👨‍💻✅')
 } 
 })
