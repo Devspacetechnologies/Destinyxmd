@@ -21,11 +21,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │☁️ *Platform:* Heroku
 │🌐 *Mode:* [${config.MODE}]
 │⚡ *Prefix:* [${config.PREFIX}]
-│🛠 *Version:* 3.0.0 ★‡†
+│🛠 *Version:* 0.0.1 ★‡†
 └───────────────
 
 
-©MR PK DRILLER 
+©𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 
 📌 QURAN-MENU 🪀
 
 ★ 1 .surah1
