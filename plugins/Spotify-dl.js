@@ -45,8 +45,8 @@ async (conn, mek, m, { from, args, q, reply, pushname }) => {
 🎶 *Type:* ${type}
 ⏱️ *Duration:* ${duration}
 
-> *DOWNLOADED BY NEXUS-XMD*
-> *© CREATED BY PKDRILLER*
+> *DOWNLOADED BY DESTINY-XMD*
+> *© 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐀𝐑𝐊*
 `.trim();
 
         // Send cover image with track info
