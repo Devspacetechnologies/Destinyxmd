@@ -15,7 +15,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-   *❦ \`NEXUS-XMD ＳＥＸＹ ＨＵＢ.🎀🍭\`*
+   *❦ \`𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃 ＳＥＸＹ ＨＵＢ.🎀🍭\`*
 
 1️⃣ *EJACULATION💦*
 2️⃣ *PENIS🍆*
@@ -372,7 +372,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your kiss NSFW image 🔞💋.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝙱.𝙼.𝙱-𝚇𝙼𝙳😋💋🔞.'
+                caption: 'Here is your kiss NSFW image 🔞💋.\n> © 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇😋💋🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
