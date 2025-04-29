@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 🇰🇪 NEXUS-XMD 🤍*`;
+> *@ 🇰🇪 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 🤍*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫🦜 Nexus-xmd 🇰🇪 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫🦜 𝐌𝐀𝐑𝐊 𝐓𝐄𝐂𝐇 🇰🇪 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
