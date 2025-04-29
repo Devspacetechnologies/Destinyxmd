@@ -52,11 +52,11 @@ cmd({
     const _0x2e869c = await _0x13d51a.json();
     if (_0x2e869c.code) {
       const _0x25f740 = _0x2e869c.code;
-      const _0xeea95a = "*⚡Pairing Code For nexus xmd 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *NEXUS-XMD* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
+      const _0xeea95a = "*⚡Pairing Code For 𝐃𝐄𝐒𝐓𝐈𝐍𝐘 𝐗𝐌𝐃 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *NEXUS-XMD* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
       try {
         await _0x3f368b.sendMessage(_0x2fe294.key.remoteJid || _0x2fe294.from, {
           'image': {
-            'url': "https://i.ibb.co/BY2HCkh/nexus-xmd.jpg"
+            'url': "https://files.catbox.moe/ibi3x2.jpg"
           },
           'caption': _0xeea95a
         }, {
@@ -93,7 +93,7 @@ cmd({
   'react': '🎉',
   'desc': "Pairing code",
   'category': "download",
-  'use': ".pair +25575653xxxx",
+  'use': ".pair +254110550356",
   'filename': __filename
 }, async (_0x164b72, _0x230a02, _0x1c5313, {
   from: _0x451058,
@@ -114,7 +114,7 @@ cmd({
       return await _0x50e2bb("Failed to retrieve pairing code. Please check the phone number and try again.");
     }
     const _0x27dff2 = _0x15aa92.code;
-    await _0x50e2bb("> *𝐁.𝐌.𝐁-𝐗𝐌𝐃 PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
+    await _0x50e2bb("> *𝐃𝐄𝐒𝐓𝐈𝐍𝐘-𝐗𝐌𝐃 PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
     await _0x566978(0x7d0);
     await _0x50e2bb('' + _0x27dff2);
   } catch (_0x53bf58) {
